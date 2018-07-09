@@ -1,1 +1,1 @@
-foo
+thing
